@@ -1,0 +1,22 @@
+.contactsBlock {
+    height: 35vh;
+    background-color: #764ba4;
+
+}
+
+.contactsCase {
+    flex-direction: column;
+}
+
+.title {
+    background-color: #7ad58f;
+}
+
+.form {
+
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+}

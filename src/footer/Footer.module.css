@@ -1,0 +1,22 @@
+.footerBlock {
+    height: 160px;
+    background-color: #b5c7d9;
+}
+
+.footerCase {
+    flex-direction: column;
+
+}
+
+.title {
+    margin: 0;
+    background-color: #c2a06e;
+}
+
+.blocks {
+    display: flex;
+}
+
+.copyright {
+    background-color: #c2a06e;
+}

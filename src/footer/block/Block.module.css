@@ -1,0 +1,12 @@
+.block {
+    width: 30px;
+    height: 30px;
+}
+
+.blockGrey {
+    background-color: grey;
+}
+
+.blockWhite {
+    background-color: white;
+}
