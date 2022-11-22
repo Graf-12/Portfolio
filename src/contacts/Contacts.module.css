@@ -1,5 +1,5 @@
 .contactsBlock {
-    height: 35vh;
+    height: 50vh;
     background-color: #764ba4;
 
 }
@@ -13,7 +13,9 @@
 }
 
 .form {
-
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
 }
 
 .button {

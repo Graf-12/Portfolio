@@ -11,6 +11,7 @@ const Projects = () => {
                 <div className={s.projects}>
                     <Project title={'Todolist'} description={'Todolist project description'}/>
                     <Project title={'Counter'} description={'Counter project description'}/>
+                    <Project title={'Social network'} description={'Social network project description'}/>
                 </div>
             </div>
         </div>
